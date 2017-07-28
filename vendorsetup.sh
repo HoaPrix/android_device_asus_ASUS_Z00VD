@@ -1,2 +1,3 @@
-
-  add_lunch_combo lineage_ASUS_Z00VD-userdebug
+add_lunch_combo full_ASUS_Z00VD-user
+add_lunch_combo full_ASUS_Z00VD-userdebug
+add_lunch_combo full_ASUS_Z00VD-eng

@@ -9,7 +9,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 $(call inherit-product, device/asus/ASUS_Z00VD/full_ASUS_Z00VD.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_ASUS_Z00VD
+PRODUCT_NAME := ASUS_Z00VD
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := ASUS Zenfone Go 
 
